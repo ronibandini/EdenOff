@@ -9,5 +9,9 @@ Buzzer
 3.7v battery
 Switch
 
+Complete details at hackster.io
+
+3d printed outlet face https://www.thingiverse.com/thing:5347997
+
 https://www.instagram.com/ronibandini/
 https://twitter.com/RoniBandini
