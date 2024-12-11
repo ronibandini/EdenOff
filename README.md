@@ -13,7 +13,7 @@ Switch
 https://www.thingiverse.com/thing:5347997
 
 # Dataset
-For this prototype, an hypothetical dataset has been used. Both CSV files should be replaced by real data for a specific location/service.
+For this prototype, a synthetic dataset has been used. Both CSV files should be replaced by real data for a specific location/service.
 
 # More information
 https://bandini.medium.com/edenoff-anticipar-cortes-de-luz-con-inteligencia-artificial-33f4a1c3be4
